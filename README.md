@@ -22,4 +22,4 @@ pip install -r requirements.txt
 ### 2.  Datasets: 
 - prices datasets are in the directory data_prices as .csv files
 - consumption dataset, aggregated to 10 minutes intervals can be downloaded from the linkhttps://drive.google.com/file/d/1ZTrZ2X3_XRoN4MfuK3tzh2lkc2y857_w/view?usp=sharing
-- battery data is described in the code, it mimics the 
+- battery data is described in the code, it mimics the tesla megapack in 4h specification
